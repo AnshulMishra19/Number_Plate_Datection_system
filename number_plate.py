@@ -10,6 +10,7 @@ cap.set(4, 480) #height
 min_area = 500
 count = 0
 
+
 while True:
     success, img = cap.read()
 
